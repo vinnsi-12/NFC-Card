@@ -2,7 +2,10 @@
 
 This is my very first project ever. I am very new to this stuff and started jus a few days ago.
 
-What I made is a NFC card specifically designed for me but in order to be used by you all , you'll need to make some changes in the sikscreen
+What I made is a NFC card specifically designed for me but in order to be used by you all , you'll need to make some changes in the sikscreen.
+
+## USES
+I'll use this to get my details like gmails or passwords, usernames for various platforms like instagram or phone number, all just in my pocket. What a great thing to have. Will surely enjoy it
 
 ## Features
 
