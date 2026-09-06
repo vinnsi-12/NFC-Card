@@ -25,3 +25,13 @@ I'll use this to get my details like gmails or passwords, usernames for various 
 <img width="456" height="520" alt="PCB No silk" src="https://github.com/user-attachments/assets/867896a4-94d7-4373-a1c9-af60e55cc6e8" />
 <img width="1029" height="510" alt="NFC SCHEMATIC" src="https://github.com/user-attachments/assets/737b1332-3f1b-4b01-9bfa-87232f8e5c7f" />
 <img width="724" height="706" alt="3d frnt" src="https://github.com/user-attachments/assets/55b643f4-09e2-457f-a4e1-1b6e39f5ddda" />
+
+## JLCPCB 
+
+<img width="1904" height="865" alt="image" src="https://github.com/user-attachments/assets/966fd769-80c8-48be-9e2a-99acf5591cd4" />
+
+
+<img width="1916" height="862" alt="image" src="https://github.com/user-attachments/assets/6b054a6a-2323-4c6f-961d-b407d699b494" />
+
+`Total Build Cost - $20 with Shipping to India
+
