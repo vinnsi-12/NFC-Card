@@ -33,5 +33,5 @@ I'll use this to get my details like gmails or passwords, usernames for various 
 
 <img width="1916" height="862" alt="image" src="https://github.com/user-attachments/assets/6b054a6a-2323-4c6f-961d-b407d699b494" />
 
-`Total Build Cost - $20 with Shipping to India
+`Total Build Cost - $20 with Shipping to India`
 
