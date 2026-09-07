@@ -18,6 +18,14 @@ I'll use this to get my details like gmails or passwords, usernames for various 
  
 > Antenna Community made
 
+## Bill of Materials (BOM)
+
+| # | Component | Ref. | Footprint | Qty | Manufacturer | Supplier | Part Number | Price |
+|---:|---|---|---|---:|---|---|---|---:|
+| 1 | 25X48MM_NFC_ANTENNA | 1 | 25X48MM_NFC_ANTENNA | 1 | — | — | — | — |
+| 2 | ST25TN01K-AFH5 | U1 | UFDFPN-5_L1.7-W1.4-P0.40-BL | 1 | ST | LCSC | C3303589 | $0.59 |
+
+
 ## Images
 <img width="689" height="739" alt="3d back" src="https://github.com/user-attachments/assets/a2b57c5f-5531-4ae2-8305-7b21c553241f" />
 
