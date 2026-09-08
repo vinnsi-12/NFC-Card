@@ -27,6 +27,8 @@ I'll use this to get my details like gmails or passwords, usernames for various 
 
 PCB Cost - $10 + $10 shipping
 
+Refer to JLC images below for Detailed breakdown of prices XD 
+
 
 ## Images
 <img width="689" height="739" alt="3d back" src="https://github.com/user-attachments/assets/a2b57c5f-5531-4ae2-8305-7b21c553241f" />
