@@ -27,7 +27,7 @@ I'll use this to get my details like gmails or passwords, usernames for various 
 
 PCB Cost - $10 + $10 shipping
 
-Refer to JLC images below for Detailed breakdown of prices XD 
+$4 for PCB and $14 for Assembly
 
 
 ## Images
